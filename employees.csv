@@ -1,6 +1,6 @@
-Name,Salary,Department,Bonus
-Tess,5000,HR,500.0
-Law,6000,Finance,600.0
-Ama,5500,IT,550.0
-Esi,7000,Marketing,700.0
-Corner,0,Sales,0.0
+Name,Salary,Department,Location,Email,Bonus
+Tess,5000,HR,Accra,Tess.gmail.com,500.0
+Law,6000,Finance,Kumasi,law.hotmail.com,600.0
+Ama,5500,IT,Accra,Ama.yahoo.com,550.0
+Esi,7000,Marketing,Cape Coast,Esi.outlook.com,700.0
+Corner,5000,Sales,Tamale,Corner.aol.com,500.0
